@@ -1,4 +1,4 @@
----
+/*---
 title: String.prototype.at()
 slug: Web/JavaScript/Reference/Global_Objects/String/at
 tags:
@@ -93,3 +93,4 @@ console.log(atWay); // Logs: 't'
 - {{jsxref("String.prototype.charCodeAt()")}}
 - {{jsxref("String.prototype.codePointAt()")}}
 - {{jsxref("String.prototype.split()")}}
+*/
